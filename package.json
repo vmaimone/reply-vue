@@ -1,0 +1,11 @@
+{
+  "name": "reply-vue",
+  "version": "0.0.1",
+  "description": "a hapi `reply` extension to support vue ssr"
+  "author": "vin maimone",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmaimone/reply-vue.git"
+  },
+}
+  
