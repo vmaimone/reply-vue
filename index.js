@@ -1,4 +1,4 @@
-const renderViewModel = require('./renderViewModel')
+const renderViewModel = require('./render-view-model')
 
 function register(server, options, next) {
   server.decorate('reply', 'vue', function ViewModel(data = {}) {
